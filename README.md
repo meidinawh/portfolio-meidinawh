@@ -24,6 +24,7 @@ __Qase.io__
 ## Courses
 
 __Quality Assurance Bootcamp in Fresh Graduate Academy (FGA) Batch 4__
+
 __The 1st Online Institute of Software Testing__  
 *online course by Quality Lab, Moscow, Russia*  
 A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
