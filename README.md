@@ -20,6 +20,10 @@ __Automation testing__
 
 __Qase.io__
   * Create test cases and test suite, and update the test progress
+  
+__Cypress__
+
+__Postman__
 
 ## Certifications
 
