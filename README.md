@@ -1,9 +1,9 @@
 # Portfolio
-- [About me](#about-me)
+- [About Me](#about-me)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Certifications](#certifications)
-- [Examples of my work](#examples-of-my-work)
+- [Examples of My Work](#examples-of-my-work)
 
 ## About Me 
 
@@ -33,7 +33,7 @@ Quality Assurance bootcamp about fundamental of quality assurance, including man
 [Link to the certificate](https://drive.google.com/file/d/1_4P9I4H_l-8WgFRGlIPWmi5tpzXYva3w/view?usp=share_link)
 
 __Quality Assurance__  
-*Online intensif bootcamp by Sanbercode*  
+*Online bootcamp by Sanbercode*  
 Bootcamp about quality assurance, including manual testing, API testing with Postman, and introduction about automation testing tools (Selenium Python and RobotFramework)  .   
 [Link to the certificate](https://drive.google.com/file/d/1S1ME413FJlNL-s5ax5yMIRbYEGVpSySw/view?usp=share_link)
 
@@ -41,6 +41,14 @@ __Software Quality Assurance Tester__
 *Online bootcamp by Jago QA Institude*  
 Bootcamp about automation UI testing using Selenium, manual API testing, and automation API testing using Postman .   
 [Link to the certificate](https://drive.google.com/drive/folders/12pNHHx1kVi43UhtcfPfJhb3u5V2ZYnXJ?usp=share_link)
+
+## Examples of My Work
+__Test Case__
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[Link for test case document](https://docs.google.com/spreadsheets/d/1ELczcsqpujvpZkXTb3EoDtvJg0XxstCw/edit?usp=share_link&ouid=103318968433682744563&rtpof=true&sd=true)
+
+__Bug Report__
+[Link for bug report document](https://docs.google.com/document/d/1VTZvPi3y2iHbRCd1225vhL0GkiXFqia6JCtD4qruEcc/edit?usp=share_link)
 
 
 
