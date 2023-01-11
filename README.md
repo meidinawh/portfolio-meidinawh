@@ -44,7 +44,6 @@ Bootcamp about automation UI testing using Selenium, manual API testing, and aut
 
 ## Examples of My Work
 __Test Case__
-https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 [Link for test case document](https://docs.google.com/spreadsheets/d/1ELczcsqpujvpZkXTb3EoDtvJg0XxstCw/edit?usp=share_link&ouid=103318968433682744563&rtpof=true&sd=true)
 
 __Bug Report__
