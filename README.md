@@ -25,11 +25,9 @@ __Qase.io__
 
 __Quality Assurance Bootcamp in Fresh Graduate Academy (FGA) Batch 4__  
 *online bootcamp by Digitalent x Binar Academy*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
-**
-Quality Assurance bootcamp about fundamental of quality assurance, including manual testing and API testing.
+Quality Assurance bootcamp about fundamental of quality assurance, including manual testing and API testing.   
 [Link to the certificate](https://drive.google.com/file/d/1_4P9I4H_l-8WgFRGlIPWmi5tpzXYva3w/view?usp=share_link)
+
 
 
 
