@@ -42,7 +42,7 @@ Bootcamp about automation UI testing using Selenium, manual API testing, and aut
 ## Examples of My Work
 __Test Case__
 [test case 1](https://docs.google.com/spreadsheets/d/1ELczcsqpujvpZkXTb3EoDtvJg0XxstCw/edit?usp=share_link&ouid=103318968433682744563&rtpof=true&sd=true)
-
+[test case 2](https://docs.google.com/spreadsheets/d/1mzIVF4M2x1Sm6jB551cSLkPPd__0cp04/edit?usp=sharing&ouid=103318968433682744563&rtpof=true&sd=true)
 __Bug Report__
 [Link for bug report document](https://docs.google.com/document/d/1VTZvPi3y2iHbRCd1225vhL0GkiXFqia6JCtD4qruEcc/edit?usp=share_link)
 
