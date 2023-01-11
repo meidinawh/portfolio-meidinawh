@@ -2,7 +2,7 @@
 - [About me](#about-me)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Courses](#courses)
+- [Certifications](#certifications)
 - [Examples of my work](#examples-of-my-work)
 
 ## About Me 
@@ -21,7 +21,7 @@ __Automation testing__
 __Qase.io__
   * Create test cases and test suite, and update the test progress
 
-## Courses
+## Certifications
 
 __Quality Assurance Bootcamp in Fresh Graduate Academy (FGA) Batch 4__  
 *Online bootcamp by Digitalent x Binar Academy*  
