@@ -41,6 +41,13 @@ Bootcamp about automation UI testing using Selenium, manual API testing, and aut
 
 ## Examples of My Work
 __Test Case__  
+  * Test case 1: Check [Test case using excel](https://docs.google.com/spreadsheets/d/1ELczcsqpujvpZkXTb3EoDtvJg0XxstCw/edit?usp=share_link&ouid=103318968433682744563&rtpof=true&sd=true).
+  * Test case 2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
+  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
+* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
+
+
+
 [test case 1](https://docs.google.com/spreadsheets/d/1ELczcsqpujvpZkXTb3EoDtvJg0XxstCw/edit?usp=share_link&ouid=103318968433682744563&rtpof=true&sd=true)
 [test case 2](https://docs.google.com/spreadsheets/d/1mzIVF4M2x1Sm6jB551cSLkPPd__0cp04/edit?usp=sharing&ouid=103318968433682744563&rtpof=true&sd=true)
 [test case 3](https://drive.google.com/file/d/1WobfhhY89JK028cHojsnkH0LF9_vF5hw/view?usp=share_link)
