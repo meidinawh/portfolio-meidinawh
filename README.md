@@ -1,11 +1,8 @@
 # Portfolio
-- [About Me](#about-me)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Certifications](#certifications)
 - [Examples of My Work](#examples-of-my-work)
-
-## About Me 
 
 ## Skills
 
