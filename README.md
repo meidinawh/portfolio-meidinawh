@@ -49,7 +49,7 @@ __Bug Report__
   * Bug report: [link](https://docs.google.com/document/d/1VTZvPi3y2iHbRCd1225vhL0GkiXFqia6JCtD4qruEcc/edit?usp=share_link).
 
 __Case Study__  
-  * Test case and bug report: [link](https://drive.google.com/file/d/1WobfhhY89JK028cHojsnkH0LF9_vF5hw/view?usp=share_link).
+  * Test case and bug report: [link](https://drive.google.com/file/d/18KoqVH-dMZFcHRPHPAQCIU_iDqFAZP3n/view?usp=share_link).
 
 
 
