@@ -44,12 +44,15 @@ __Test Case__
   * Test case 1: [Test case using excel](https://docs.google.com/spreadsheets/d/1ELczcsqpujvpZkXTb3EoDtvJg0XxstCw/edit?usp=share_link&ouid=103318968433682744563&rtpof=true&sd=true).
   * Test case 2: [Test case using excel](https://docs.google.com/spreadsheets/d/1mzIVF4M2x1Sm6jB551cSLkPPd__0cp04/edit?usp=sharing&ouid=103318968433682744563&rtpof=true&sd=true).
   * Test case 3: [Test case document from Qase.io](https://drive.google.com/file/d/1WobfhhY89JK028cHojsnkH0LF9_vF5hw/view?usp=share_link).
+  * Test case 4: [Test case document saucedemo]https://docs.google.com/spreadsheets/d/192fror7FYx53cE7ZoBfEwMUWvwFbfuMz8zZg9hTjlRY/edit?usp=sharing).
 
 __Bug Report__
   * Bug report: [link](https://docs.google.com/document/d/1VTZvPi3y2iHbRCd1225vhL0GkiXFqia6JCtD4qruEcc/edit?usp=share_link).
 
 __Case Study__  
   * Test case and bug report: [link](https://drive.google.com/file/d/18KoqVH-dMZFcHRPHPAQCIU_iDqFAZP3n/view?usp=share_link).
+  
+ __Automation Scripts__
 
 
 
