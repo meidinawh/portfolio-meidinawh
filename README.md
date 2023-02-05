@@ -53,6 +53,7 @@ __Case Study__
   * Test case and bug report: [link](https://drive.google.com/file/d/18KoqVH-dMZFcHRPHPAQCIU_iDqFAZP3n/view?usp=share_link).
   
  __Automation Scripts__
+ * Test case and automation using Cypress: [link](https://drive.google.com/file/d/1n80ISEsZO0v_vJpk5lI-VUoMjsxe-pwr/view?usp=sharing).
 
 
 
