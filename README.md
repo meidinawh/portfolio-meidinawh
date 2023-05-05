@@ -59,6 +59,8 @@ __Case Study__
  __Automation Scripts__
  * Test case and automation using Cypress: [link](https://drive.google.com/file/d/1n80ISEsZO0v_vJpk5lI-VUoMjsxe-pwr/view?usp=sharing).
 
+__Katalon__
+ * Testing OrangeHRM Website Menu Recruitment: [Search & Add Vacancy](https://drive.google.com/file/d/1hyuNgSG09PK1dQcaddKeuKcjQk97eNwo/view?usp=sharing).
 
 
 
