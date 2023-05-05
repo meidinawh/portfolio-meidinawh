@@ -54,6 +54,7 @@ __Case Study__
   * Test case and bug report: [link](https://drive.google.com/file/d/18KoqVH-dMZFcHRPHPAQCIU_iDqFAZP3n/view?usp=share_link).
   * Gherkin & Test Case Youtube Music: [link](https://docs.google.com/spreadsheets/d/120G1RUI-Sn2VsZfy64B-M7LrwkuUaCcJAb76Y7x9_U4/edit?usp=sharing).
   * Boundary Value Analysis: [link](https://docs.google.com/spreadsheets/d/1hZGJWzcQD7vmIQpXnTR6JCoIYvaGTlLqj6Bc8PCN-X8/edit?usp=sharing).
+  * Gherkin & Script: [link](https://docs.google.com/document/d/1yhxxfmb9KT1TtS41K9AwJ6y6He0DfW4DIpiOlr_cbvs/edit?usp=sharing).
   
  __Automation Scripts__
  * Test case and automation using Cypress: [link](https://drive.google.com/file/d/1n80ISEsZO0v_vJpk5lI-VUoMjsxe-pwr/view?usp=sharing).
