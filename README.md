@@ -17,7 +17,11 @@ __Automation testing__
 
 __Qase.io__
   * Create test cases and test suite, and update the test progress
-  
+
+__Jira__
+
+__Katalon__
+
 __Cypress__
 
 __Postman__
