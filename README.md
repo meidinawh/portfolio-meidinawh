@@ -1,5 +1,3 @@
-# CV
-CV Meidina Wahyu Hafsary.pdf
 
 # Portfolio
 - [Skills](#skills)
