@@ -14,10 +14,10 @@ __Manual testing__
 __Automation testing__
   * Create automation scripts using Cypress and run automation testing
 
-## Tools
+__API testing__
 
+## Tools
 __Qase.io__
-  * Create test cases and test suite, and update the test progress
 
 __Jira__
 
@@ -51,6 +51,7 @@ __Test Case__
   * Test case 3: [Test case document from Qase.io](https://drive.google.com/file/d/1WobfhhY89JK028cHojsnkH0LF9_vF5hw/view?usp=share_link).
   * Test case 4: [Test case document saucedemo](https://docs.google.com/spreadsheets/d/192fror7FYx53cE7ZoBfEwMUWvwFbfuMz8zZg9hTjlRY/edit?usp=sharing).
   * Test case 5: [Test case App Pemesanan Makanan](https://docs.google.com/spreadsheets/d/1NPezk1Gr7IPkS1bn8PlMcsVlBuGeiIR_3t-doKjQg7Q/edit?usp=share_link).
+  * Test case 6: [Test case Ecommerce - Flash Sale Feature](https://docs.google.com/spreadsheets/d/1GT_lnplO7ekenLBMONuLkg-yhV0inIix9h_2fzyQIEs/edit?usp=sharing).
 
 __Bug Report__
   * Bug report: [link](https://docs.google.com/document/d/1VTZvPi3y2iHbRCd1225vhL0GkiXFqia6JCtD4qruEcc/edit?usp=share_link).
@@ -60,6 +61,8 @@ __Case Study__
   * Gherkin & Test Case Youtube Music: [link](https://docs.google.com/spreadsheets/d/120G1RUI-Sn2VsZfy64B-M7LrwkuUaCcJAb76Y7x9_U4/edit?usp=sharing).
   * Boundary Value Analysis: [link](https://docs.google.com/spreadsheets/d/1hZGJWzcQD7vmIQpXnTR6JCoIYvaGTlLqj6Bc8PCN-X8/edit?usp=sharing).
   * Gherkin & Script: [link](https://docs.google.com/document/d/1yhxxfmb9KT1TtS41K9AwJ6y6He0DfW4DIpiOlr_cbvs/edit?usp=sharing).
+  * Case Dummy HR System: [link](https://drive.google.com/file/d/1F8gZrfNd3Fx4i90rxvEbR6mZjFZkqYvE/view?usp=drive_link).
+  * Test Case Functional & API: [link](https://docs.google.com/document/d/1VSeDV6wU6E8QscHa2AVHkTnwvJlhmth0/edit?usp=drive_link&ouid=103318968433682744563&rtpof=true&sd=true).
   
  __Automation Scripts__
  * Test case and automation using Cypress: [link](https://drive.google.com/file/d/1n80ISEsZO0v_vJpk5lI-VUoMjsxe-pwr/view?usp=sharing).
